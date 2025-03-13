@@ -1,0 +1,6 @@
+pandas
+ipykernel
+requests
+dotenv
+psycopg2
+pyspark
